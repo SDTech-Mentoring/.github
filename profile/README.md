@@ -1,4 +1,11 @@
-## Hi there 👋
+## 🚀 Bem-vindos ao SD Tech Consulting & Mentoring!
+
+##### SD Tech Consulting & Mentoring é uma empresa dedicada a oferecer mentorias e consultorias para desenvolver apps, sites ou outras ideias tech. Atualmente, estamos criando trilhas de aprendizado gratuitas para ajudar novos desenvolvedores a aprimorar suas habilidades. Em breve, também ofereceremos outros tipos de mentorias para um suporte mais aprofundado e personalizado. 🎓
+
+#### Nós da SD Tech queremos ser referência em capacitação tecnológica, proporcionando suporte e conhecimento para indivíduos e empresas, ajudando-os a alcançar seu pleno potencial no desenvolvimento de aplicativos e sites. 🌟
+
+##### Nossa Missão 🎯
+##### Oferecer mentorias para desenvolvedores, conectando novos talentos com oportunidades de emprego por meio de parcerias com departamentos de RH, além de fornecer consultoria e suporte especializado para empresas que precisam de mão de obra ou conhecimento técnico. 💼🤝
 
 <!--
 
