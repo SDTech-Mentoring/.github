@@ -8,7 +8,7 @@
 ##### Oferecer mentorias para desenvolvedores, conectando novos talentos com oportunidades de emprego por meio de parcerias com departamentos de RH, além de fornecer consultoria e suporte especializado para empresas que precisam de mão de obra ou conhecimento técnico. 💼🤝
 
 ### Conecte-se conosco
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]([https://discord.gg/seu-link-do-discord](https://github.com/SDTech-Mentoring/CSS-journey))
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]([https://discord.gg/seu-link-do-discord](https://discord.gg/EHvPjBbj)
 
 <!--
 
